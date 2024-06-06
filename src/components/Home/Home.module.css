@@ -1,0 +1,22 @@
+.container {
+    margin: 0 auto;
+    max-width: 760px;
+    padding: 2rem 0.5rem;
+}
+
+.secondHeading {
+    color: black;
+    font-size: 30px;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.error {
+    color: red;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+}
