@@ -22,7 +22,6 @@ export const SharedLayout = () => {
       </Suspense>
       <footer className={css.footer}>
         <div className={css.footerContainer}>
-          <a href="https://developer.themoviedb.org/docs/getting-started"></a>
           <p>
             This website uses TMDB and the TMDB APIs but is not endorsed,
             certified, or otherwise approved by TMDB.
